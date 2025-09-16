@@ -1,0 +1,8 @@
+{
+  "name": "apple-system-colors",
+  "colors": {
+    "primary": "#007aff",
+    "accent": "#34c759",
+    "bg": "#ffffff"
+  }
+}
